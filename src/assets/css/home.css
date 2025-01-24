@@ -1,0 +1,13 @@
+ .main-title h1 {
+    position: relative;
+    z-index: 0;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 10px 25px;
+    display: block; }
+
+.home-desc h1{
+    font-size: 21px; }
+.home-desc p{
+    font-size: 14px;
+    font-weight: 200; }
