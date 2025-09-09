@@ -31,7 +31,26 @@ export const projects = [
         link: 'https://apps.apple.com/lk/app/s-f-produce-group/id6477423999',
         img: "custom-images/projects/s3.png",
         github: "https://github.com/YasithCB"
+    },
+    {
+        id: "4",
+        name: "Graphic Link Web",
+        description: "Graphic Link Web is a UAE-based design and advertising company, offering creative solutions to elevate your brand. We specialize in innovative design and impactful marketing strategies that drive business growth",
+        TechStack: ["React", "Vite", "NodeJS"],
+        link: 'https://graphiclink.ae',
+        img: "custom-images/projects/s4.png",
+        github: "https://github.com/YasithCB"
+    },
+    {
+        id: "5",
+        name: "REel7 Web",
+        description: "Reel7 Web is a movie platform currently in development with a temporary domain, designed to bring users the latest top movies with an easy option to download and enjoy.",
+        TechStack: ["React", "Vite", "NodeJS"],
+        link: 'http://reel7.free.nf/',
+        img: "custom-images/projects/s5.png",
+        github: "https://github.com/YasithCB/reel7-web"
     }
+
 ];
 
 export const certificates = [

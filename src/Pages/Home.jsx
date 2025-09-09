@@ -26,7 +26,6 @@ const MainTitle = memo(() => (
 ));
 
 
-
 // Constants
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 30;
